@@ -1,0 +1,17 @@
+.errorMessage{
+  color: red;
+}
+
+.form-row{
+  width: 260px;
+  padding: 12px 12px;
+
+  height: 100px;
+  padding-left: 40px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
+}
